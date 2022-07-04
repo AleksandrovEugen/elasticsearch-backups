@@ -8,7 +8,7 @@ cd elasticsearch-backups
 npm i
 ```
 
-### Usage example:
+### Usage example
 
 `./run.sh twitter http://elastic:root@127.0.0.1:9200`
 
